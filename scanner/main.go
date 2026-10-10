@@ -18,4 +18,9 @@ func main() {
 	fmt.Println("Masukan nama :")
 	fmt.Scanf("%s", &nama)
 	fmt.Printf("Nama yang di input adalah : %s\n", nama)
+
+	// Konversi Suhu Celcius ke Fahrenheit
+	// F = ( 9/5 * C ) + 32
+	// Konversi Suhu Celcius ke Kelvin
+	// K = C + 273.15
 }
